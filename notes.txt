@@ -1,0 +1,5 @@
+
+Future modifications:
+    - Process data in batches
+    - Add unit and integration test cases
+    - Add support for more data formats
